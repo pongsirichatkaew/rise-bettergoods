@@ -2,6 +2,7 @@ import HowItWorksSections from '../rb-how-it-works';
 import HeroSection from '../rb-herosection';
 import PowerupSection from '../rb-powerup';
 import Navbar from '../rb-navbar';
+import Footer from '../rb-footer';
 
 const LandingPage = () => {
   return (
@@ -10,6 +11,7 @@ const LandingPage = () => {
       <HeroSection />
       <HowItWorksSections />
       <PowerupSection />
+      <Footer />
     </>
   );
 };

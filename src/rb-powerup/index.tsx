@@ -39,7 +39,7 @@ const PowerupSection = () => {
       </section>
       {/* POWER UP DETAIL */}
       <section>
-        <div className='flex flex-col sm:flex-row items-center justify-center sm:py-12 space-x-4'>
+        <div className='flex flex-col bg-gray-100 sm:flex-row items-center justify-center sm:py-12 space-x-4'>
           {/* Item */}
           <PowerupItem {...powerupItems[0]} />
           {/* Item */}
