@@ -30,7 +30,7 @@ const HowItWorksSections = () => {
   return (
     <section className='bg-gray-100 min-h-screen'>
       <div className='text-center sm:px-80 px-12'>
-        <h1 className='text-5xl font-bold sm:py-24 py-12'>How BetterGoods Works?</h1>
+        <h1 className='text-5xl font-bold py-12'>How BetterGoods Works?</h1>
         <p className='text-lg text-gray-400 leading-relaxed mb-8'>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
           magna aliqua.
