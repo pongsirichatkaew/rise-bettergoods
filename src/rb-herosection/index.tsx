@@ -12,7 +12,7 @@ const HeroSection = () => {
       </div>
       {/* Image */}
       <div className='sm:w-1/2 sm:pl-10'>
-        <Image src='/assets/click-through-rate.png' width={538} height={411} alt='Image' />
+        <Image src='/assets/click-through-rate.png' width={538} height={411} alt='Better Goods Hero Section' />
       </div>
     </div>
   );
